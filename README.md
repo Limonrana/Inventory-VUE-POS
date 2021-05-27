@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## About Laravel VUE POS Inventory
 
 VUE-POS is a simple point of sales software. This application use for simple product management. The VUE-POS takes the pain out of development by easing common tasks used in many web projects, such as:
 
