@@ -1,0 +1,30 @@
+a.sidebar-link.waves-effect.waves-dark.router-link-exact-active.router-link-active.active {
+    padding: 10px 0 10px 10px !important;
+    border-radius:60px 0 0 60px !important;
+    background:#4798e8 !important;
+    color:#fff!important;
+}
+a.sidebar-link.has-arrow.waves-effect.waves-dark.active {
+    padding: 10px 0 10px 10px !important;
+    border-radius:60px 0 0 60px !important;
+    background:#4798e8 !important;
+    color:#fff!important;
+}
+.sidebar-nav>ul>li.selected {
+    color: #515a6e !important;
+}
+.sidebar-nav ul .sidebar-item .first-level .sidebar-item .sidebar-link i {
+    visibility: visible !important;
+}
+
+.sidebar-nav ul .sidebar-item .first-level .sidebar-item .sidebar-link {
+    padding: 10px 25px !important;
+}
+
+button.btn.btn-dark.btn-circle.price_sell {
+    border-radius: 100%;
+    width: 45px !important;
+    height: 45px !important;
+    padding: 0px !important;
+    line-height: 30px;
+}
